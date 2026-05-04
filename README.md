@@ -1,16 +1,9 @@
-Buy me a coffee: https://boosty.to/ivan_8observer8/donate This service supports PayPal. You can perform single sign-on with your Google account.
-
 Live demo: https://8observer8.github.io/webgl10-js/falling-circle-ray-casting-box2dwasm-melonjs-js/
 
-Playgrounds:
+Playground: https://plnkr.co/edit/63WCqJa8NbNmDlxO?preview
 
-- Replit: https://replit.com/@8Observer8/Falling-circle-ray-casting-Box2D-WASM-MelonJS-JS
-- Plunker: https://plnkr.co/edit/63WCqJa8NbNmDlxO?preview
-- Glitch: https://glitch.com/edit/#!/cake-glass-ocean
+Discussions:
 
-Topic and discussions:
-
-- Melon.js topic: https://melonjs.discourse.group/t/basic-examples-of-using-box2d-wasm-with-melon-js-in-javascript/57
 - Melon.js discussion: https://github.com/melonjs/melonJS/discussions/1192
 - Box2D-WASM discussion: https://github.com/Birch-san/box2d-wasm/discussions/67
 
