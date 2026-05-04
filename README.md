@@ -1,5 +1,3 @@
-Live demo: https://8observer8.github.io/webgl10-js/falling-circle-ray-casting-box2dwasm-melonjs-js/
-
 Playground: https://plnkr.co/edit/63WCqJa8NbNmDlxO?preview
 
 Discussions:
